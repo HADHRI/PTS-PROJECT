@@ -1,4 +1,4 @@
-# PTS_Project
+﻿# PTS_Project
 
 PTS PROJECT : Traffic Simulator
 
@@ -30,7 +30,7 @@ We will use JAVA FX For this ( Java library for UI)
 Presentation video : https://youtu.be/e8tmy0bDl5Q
 Demo video : https://www.youtube.com/watch?v=eozzu70o9Vw&feature=youtu.be
 
-6) Current Progress
+6)Current Progress
 
 What is already done:
 
